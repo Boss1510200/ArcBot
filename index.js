@@ -21,7 +21,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching ArcWave Studios","Watching ArcWave Studios","Watching ArcWave Studios","Watching ArcWave Studios","Watching ArcWave Studios"];
+const statusMessages = ["Watching Rules","Watching Rules","Watching Rules","Watching Rules","Watching Rules"];
 
 
 let currentIndex = 0;
